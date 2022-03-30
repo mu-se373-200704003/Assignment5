@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="add_image">Add Image</string>
+    <string name="open_next_page">Open Next Page</string>
+    <string name="settings">SETTINGS</string>
+    <string name="exit">EXIT</string>
+    <string name="tutorialspoint">TutorialsPoint</string>
+    <string name="welcome_to_second_activity">Welcome to Second Activity</string>
+</resources>
